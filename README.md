@@ -10,7 +10,7 @@
 ## npm installs
 
 ```
-- npm i -D eslint-config-airbnb eslint prettier eslint-plugin-prettier eslint-config-prettier eslint-plugin-node eslint-config-node
+- npm i -D eslint prettier eslint-plugin-prettier eslint-config-prettier eslint-plugin-node eslint-config-node
 - npx install-peerdeps --dev eslint-config-airbnb
 ```
 
