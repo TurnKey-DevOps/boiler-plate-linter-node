@@ -1,0 +1,38 @@
+{
+  "name": "boiler-plate-linter-node",
+  "version": "1.0.0",
+  "description": "boiler plate node eslint & prettier configuration",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-node": "^4.1.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.20.6",
+    "eslint-plugin-react-hooks": "^4.0.0",
+    "prettier": "^2.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TurnKey-DevOps/boiler-plate-linter-node.git"
+  },
+  "keywords": [
+    "boiler-plate",
+    "lint",
+    "configuration"
+  ],
+  "author": "ssmith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TurnKey-DevOps/boiler-plate-linter-node/issues"
+  },
+  "homepage": "https://github.com/TurnKey-DevOps/boiler-plate-linter-node#readme"
+}
